@@ -1,7 +1,9 @@
 # MS Team Assignment Extractor
 Extract students submitted assignments from MS Team download files
 
-# Usaage
+You have to download student submissions on your computer in order to use this utility.
+
+# Usage
 
 ## -i input path
 point the directory where all folders of student-submitted work present
