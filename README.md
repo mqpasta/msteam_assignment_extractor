@@ -1,7 +1,8 @@
 # MS Team Assignment Extractor
 Extract students submitted assignments from MS Team download files
 
-You have to download student submissions on your computer in order to use this utility.
+You have to download student submissions on your computer in order to use this utility. Refer the following URL to learn how to do it. 
+https://techcommunity.microsoft.com/t5/microsoft-teams/download-all-files-from-my-all-teams-in-microsoft-teams/m-p/172876
 
 # Usage
 
